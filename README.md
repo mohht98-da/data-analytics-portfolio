@@ -14,7 +14,9 @@ I am starting to learn Excel, data analysis, and visualization. This repository 
 
 **Files:**  
 - [Project-1_sales_analysis.xlsx](Project-1_sales_analysis/Project-1_sales_analysis.xlsx)  
-- ![Bar Chart](Project-1_sales_analysis/project 1_chart.PNG)
+- ![Bar Chart](Project-1_sales_analysis/project-1_chart.png)
+
+
 
 **Insights:**  
 - Product C had the highest sales.  
