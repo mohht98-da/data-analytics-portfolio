@@ -14,7 +14,7 @@ I am starting to learn Excel, data analysis, and visualization. This repository 
 
 **Files:**  
 - [Project-1_sales_analysis.xlsx](Project-1_sales_analysis/Project-1_sales_analysis.xlsx)  
-- ![Bar Chart](Project-1_sales_analysis/project_1_chart.png)
+- ![Bar Chart](Project-1_sales_analysis/Project-1_chart.png)
 
 
 
