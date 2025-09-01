@@ -25,6 +25,3 @@ I am starting to learn Excel, data analysis, and visualization. This repository 
 - Total sales: 638 units; Average per product: 110.  
 - Bar chart clearly shows Product C outperforming the others.
 
-  
-- **Project 2:** Coming soon
-- **Project 3:** Coming soon
