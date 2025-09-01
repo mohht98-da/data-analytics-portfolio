@@ -13,7 +13,8 @@ I am starting to learn Excel, data analysis, and visualization. This repository 
 **Tools Used:** Google Sheets / Excel  
 
 **Files:**  
-- [Project-1_sales_analysis.xlsx](Project-1_sales_analysis/Project-1_sales_analysis.xlsx)  
+- [Project-1_sales_analysis.xlsx](Project-1_sales_analysis/Project-1_sales_analysis.xlsx)
+
 - ![Bar Chart](Project-1_sales_analysis/Project-1_chart.png)
 
 
